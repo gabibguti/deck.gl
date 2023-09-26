@@ -5,7 +5,8 @@
   ],
   "packageRules": [
     {
-      "matchManagers": ["npm"]
+      "enabled": false,
+      "matchPackagePatterns": ["*"]
     }
   ],
   "vulnerabilityAlerts": {
